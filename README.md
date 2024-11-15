@@ -10,5 +10,4 @@ Features:
 
 
 Backend:
-	-  Here i am using SQL as a backend
-	- I connect SQL and Python together
+	- SQL is used as a backend.
